@@ -1,0 +1,1370 @@
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+E:\project\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+F:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+E:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+E:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+E:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+F:\web & angular\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\Web Api\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\Web Api\ChinesOuctionServer - Copy\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+M:\webapi\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\webapi\New folder\גיבוי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+C:\Users\326022365\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+F:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+E:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+G:\web & angular\סופי\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\maliServer\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+C:\Users\326201654\Desktop\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+E:\web & angular\New folder\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+E:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+F:\pppprrrroooojjjjeeeecccctttt\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+M:\ChinesOuctionProject👍👍👍\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\refint\ChinesOuctionServer.dll
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.pdb
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+C:\Users\326201654\Desktop\ChinesOuctioPro\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.Development.json
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\appsettings.json
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\libman.json
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.exe
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.deps.json
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.runtimeconfig.json
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\ChinesOuctionServer.pdb
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Humanizer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.AssemblyReference.cache
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfoInputs.cache
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.AssemblyInfo.cs
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CoreCompileInputs.cache
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cs
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.MvcApplicationPartsAssemblyInfo.cache
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.ChinesOuctionServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinesOuctionServer.props
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinesOuctionServer.props
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinesOuctionServer.props
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\scopedcss\bundle\ChinesOuctionServer.styles.css
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.csproj.CopyComplete
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ChinesOuctionServer.genruntimeconfig.cache
+D:\ChinesOuctionServer\ChinesOuctionServer\obj\Debug\net6.0\ref\ChinesOuctionServer.dll
